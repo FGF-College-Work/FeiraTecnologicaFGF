@@ -8,8 +8,8 @@
 
 ## EQUIPE:
 
-- [Cleilson de Sousa Pereira](@marcialwushu)
-- [Eder Sousa](@ederbr23)
+- [Cleilson de Sousa Pereira](https://github.com/marcialwushu)
+- [Eder Sousa](https://github.com/ederbr23)
 - [Claudia Adrielle]()
 
 ## DIVISÃO DE TÓPICOS
