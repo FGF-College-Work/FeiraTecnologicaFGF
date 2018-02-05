@@ -2,7 +2,7 @@
 
 ## TEMA PARA XI FEIRA TECNOLÓGICA 
 
-- Aula não iniciada - tema não definido
+- Um Estudo de Benchmark das Tecnologias Web implementadas nos Portais Acadêmicos das Principais Faculdades e Univerdades de Fortaleza
 
 ---
 
