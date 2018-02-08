@@ -1,6 +1,8 @@
 # Feira Tecnologica FGF
 :octocat: Grupo de planejamento e pesquisa dos temas para feira tecnológica FGF 
 
+![](http://www.fgf.edu.br/wp-content/uploads/2018/02/BANNER-FEIRA-TECNOLOGICA-02.png)
+
 ---
 
 - [COMPUTAÇÃO GRÁFICA](cg/README.md)
