@@ -6,6 +6,8 @@
 
 - Links de pesquisa:
 
+https://dev.yorhel.nl/doc/funcweb
+
 https://github.com/trending/haskell
 
 https://www.haskell.org/ghc/
