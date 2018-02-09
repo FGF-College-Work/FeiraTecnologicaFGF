@@ -15,8 +15,3 @@ Este sistema permite representar pontos no infinito (ou direções), chamados (e
 
 Os pontos de cada recta têm as mesmas coordenadas homogéneas.
 
-$$f(x) = \int_{-\infty}^\infty
-    \hat f(\xi)\,e^{2 \pi i \xi x}
-    \,d\xi$$
-
-$$\mathrm{( X , Y )}$$
