@@ -10,3 +10,7 @@
 - [INTELIGÊNCIA ARTIFICIAL](ia/README.md)
 - [COMPILADORES](comp/README.md)
 - [ENGENHARIA DE SOFTWARE](eds/README.md)
+
+---
+
+## Guia para montar sua palestra [aqui](talk.md)
