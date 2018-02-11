@@ -1,7 +1,7 @@
 # Detalhamento do assunto a ser pesquisado - Base de Conhecimento 
 
-- [Reconhecimento de padrões](#reconhecimentodepadrões)
-- [Aplicações](#aplicacoes)
+- [Reconhecimento de padrões](#reconhecimento de padrões)
+- [Aplicações](#aplicações)
 - [Ver também](#vertambem)
 - [Referências](#referencias)
 - [Ligações externas](#ligacoesexternas)
