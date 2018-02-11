@@ -1,10 +1,10 @@
 # Detalhamento do assunto a ser pesquisado - Base de Conhecimento 
 
-- [Reconhecimento de padrões](#reconhecimentodepadrões)
+- [Reconhecimento de padrões](#reconhecimento-de-padrões)
 - [Aplicações](#aplicações)
-- [Ver também](#vertambém)
+- [Ver também](#ver-também)
 - [Referências](#referências)
-- [Ligações externas](#ligaçõesexternas)
+- [Ligações externas](#ligações-externas)
 
 
 ### Reconhecimento de Padrões
