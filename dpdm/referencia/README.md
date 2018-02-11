@@ -6,3 +6,4 @@
 - [Surveying Biometric Authentication for Mobile Device Security](http://www.jprr.org/index.php/jprr/article/view/764) - [PDF](http://www.jprr.org/index.php/jprr/article/viewFile/764/246)
 - [Pattern recognition based authentication in mobile and wireless systems](https://brage.bibsys.no/xmlui/handle/11250/137107)
 - [Face recognition for authentication on mobile devices](https://www.gradiant.org/noticia/face-recognition-for-authentication-on-mobile-devices/?lang=en)
+- [Pattern recognition principles](https://ntrs.nasa.gov/search.jsp?R=19750040001) - [PDF](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1055618)
