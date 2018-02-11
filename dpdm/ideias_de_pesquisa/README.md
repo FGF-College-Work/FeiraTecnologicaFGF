@@ -7,6 +7,8 @@
 - [Ligações externas](#ligações-externas)
 
 
+O reconhecimento de padrões é um campo maduro, mas excitante e de desenvolvimento rápido, que sustenta desenvolvimentos em campos conhecidos, como visão computacional, processamento de imagem, análise de texto e documentos e redes neurais. É semelhante ao aprendizado de máquinas, e também encontra aplicações em áreas emergentes rápidas, como biometria, bioinformática, análise de dados multimídia e, mais recentemente, ciência dos dados. O jornal Pattern Recognition foi estabelecido há cerca de 50 anos, já que o campo emergiu nos primeiros anos da ciência da computação. Durante os anos intermediários, expandiu-se consideravelmente.
+
 ### Reconhecimento de Padrões
 
 Reconhecimento de padrões é uma área da ciência cujo objetivo é a classificação de objetos dentro de um número de categorias ou classes. Esses objetos de estudo variam de acordo com cada aplicação, podem ser imagens, sinais em forma de ondas (como voz, luz, rádio) ou qualquer tipo de medida que necessite ser classificada. Tendo aplicação em vários campos, tais como psicologia, etologia e ciência da computação.
