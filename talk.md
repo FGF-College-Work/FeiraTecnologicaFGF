@@ -1,4 +1,4 @@
-# Talks Guideline
+# Talks Guideline de Fernanda Bernardo
 A ideia desse projeto é dar algumas dicas sobre como construir uma palestra. O que terá aqui não é uma verdade absoluta, até porque cada pessoa tem seu estilo de apresentação. A ideia é servir mais como um guia.
 
 Abaixo, terão dicas de design dos slides e também de métodos de organização da palestra em si.
