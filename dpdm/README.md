@@ -9,9 +9,9 @@
 
 # EQUIPE:
 
-- [Cleilson de Sousa Perera]()
-- [Eder Sousa]()
-- [Claudia Adrielle]()
+- [Cleilson de Sousa Perera](https://github.com/marcialwushu)
+- [Eder Sousa](https://github.com/ederbr23)
+- [Claudia Adrielle](https://github.com/adriellediogo)
 
 ## DIVISÃO DE TÓPICOS
 
