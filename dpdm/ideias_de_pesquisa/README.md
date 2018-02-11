@@ -6,6 +6,7 @@
   - [Algoritmos](#algoritmos)
   - [Ver também](#ver-também)
   - [Referências](#referências)
+  - [Leitura adicional](#leitura-adicional)
   - [Ligações externas](#ligações-externas)
 
 
@@ -138,8 +139,31 @@ Algoritmos para o reconhecimento de padrões dependem do tipo de saída do rótu
 - Dietrich Paulus e Joachim Hornegger (1998). Applied Pattern Recognition 2 ed. [S.l.]: Vieweg. ISBN 3-528-15558-2
 - J. Schuermann (1996). Pattern Classification: A Unified View of Statistical and Neural Approaches. [S.l.]: Wiley&Sons. ISBN 0-471-13534-8
 - Sholom Weiss e Casimir Kulikowski (1991). Computer Systems That Learn. [S.l.]: Morgan Kaufmann. ISBN 1-55860-065-5
-- 13 Egmont-Petersen, M., de Ridder, D., Handels, H. (2002). "Image processing with neural networks - a review". Pattern Recognition. 35 (10): 2279–2301. doi:10.1016/S0031-3203(01)00178-9
+- Egmont-Petersen, M., de Ridder, D., Handels, H. (2002). "Image processing with neural networks - a review". Pattern Recognition. 35 (10): 2279–2301. doi:10.1016/S0031-3203(01)00178-9
+- Bishop, Christopher M. (2006). [Pattern Recognition and Machine Learning](http://cds.cern.ch/record/998831/files/9780387310732_TOC.pdf) (PDF). Springer. p. vii. "Pattern recognition has its origins in engineering, whereas machine learning grew out of computer science. However, these activities can be viewed as two facets of the same field, and together they have undergone substantial development over the past ten years."
+
+### Leitura adicional
+
+- Fukunaga, Keinosuke (1990). Introduction to Statistical Pattern Recognition (2nd ed.). Boston: Academic Press. ISBN 0-12-269851-7.
+- Hornegger, Joachim; Paulus, Dietrich W. R. (1999). Applied Pattern Recognition: A Practical Introduction to Image and Speech Processing in C++ (2nd ed.). San Francisco: Morgan Kaufmann Publishers. ISBN 3-528-15558-2.
+- Schuermann, Juergen (1996). Pattern Classification: A Unified View of Statistical and Neural Approaches. New York: Wiley. ISBN 0-471-13534-8.
+- Godfried T. Toussaint, ed. (1988). Computational Morphology. Amsterdam: North-Holland Publishing Company.
+- Kulikowski, Casimir A.; Weiss, Sholom M. (1991). Computer Systems That Learn: Classification and Prediction Methods from Statistics, Neural Nets, Machine Learning, and Expert Systems. Machine Learning. San Francisco: Morgan Kaufmann Publishers. ISBN 1-55860-065-5.
+- Jain, Anil.K.; Duin, Robert.P.W.; Mao, Jianchang (2000). "Statistical pattern recognition: a review". IEEE Transactions on Pattern Analysis and Machine Intelligence. 22 (1): 4–37. doi:10.1109/34.824819.
+- [An introductory tutorial to classifiers (introducing the basic terms, with numeric example)](http://www.egmont-petersen.nl/classifiers.htm)
+
+
 
 ### Ligações externas
 
 - [Sítio da Associação Internacional de Reconhecimento de Padrões - IAPR](http://www.iapr.org/)
+- [The International Association for Pattern Recognition](http://www.iapr.org/)
+- [List of Pattern Recognition web sites](http://cgm.cs.mcgill.ca/~godfried/teaching/pr-web.html)
+- [Journal of Pattern Recognition Research](http://www.jprr.org/)
+- [Pattern Recognition Info](http://www.docentes.unal.edu.co/morozcoa/docs/pr.php)
+- [Pattern Recognition](http://www.sciencedirect.com/science/journal/00313203) (Journal of the Pattern Recognition Society)
+- [International Journal of Pattern Recognition and Artificial Intelligence](http://www.worldscinet.com/ijprai/mkt/archive.shtml)
+- [International Journal of Applied Pattern Recognition](http://www.inderscience.com/ijapr)
+- [Open Pattern Recognition Project](http://www.openpr.org.cn/), intended to be an open source platform for sharing algorithms of pattern recognition
+- [Improved Fast Pattern Matching](https://www.academia.edu/31957815/Improved_Pattern_Matching_Applied_to_Surface_Mounting_Devices_Components_Localization_on_Automated_Optical_Inspection) Improved Fast Pattern Matching
+
