@@ -1,0 +1,65 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx,url}
+\usepackage[brazil]{babel}   
+%\usepackage[latin1]{inputenc}  
+\usepackage[utf8]{inputenc}  %permite texto com acento
+% UTF-8 encoding is recommended by ShareLaTex
+\usepackage{verbatim}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\rfoot{Página \thepage}
+\lhead{\it{\textcolor{gray}{\small II Mostra Científica de Tecnologia - FGF}}}
+\rhead{\it{\textcolor{gray}{\small 02, 03 e 04 de Março de 2017}}}
+\chead{\it{\textcolor{gray}{\small Fortaleza - Ce}}}
+\lfoot{\it{X Feira Tecnológica - FGF}}
+\cfoot{\it{Fortaleza - Ceará}}
+\renewcommand{\headrulewidth}{0.5pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+%\onehalfspacing
+
+%
+%%% Não alterar o preâmbulo acima.
+
+    %%% MARQUE UM X NO TIPO DE PESQUISA
+
+\noindent{TIPO DE RESUMO: 1. Trabalho original( ), 2. Relato de experiência( ), 3.Estudo de caso( ), 4. Pesquisa bibliométrica(X), 5. Pesquisa bibliográfica ( ), 6. Reflexão crítica( ), 7. Relatório técnico ( ), 8. Trabalho de conclusão de curso( ), 9. Nota prévia de monografia( ), 10. Relatório final de monografia( ).\\ASSINALE O TIPO DE APRESENTAÇÃO: 1. ORAL(X) 2. POSTER( ).
+}
+%%%%%%%%%%% TÍTULO %%%%%%%%%%%
+
+\begin{center}
+\textbf{\Large{UM ESTUDO ANALITICO SOBRE O USO E APLICAÇÃO DE RECONHECIMENTO DE PADRÕES EM DISPOSITIVOS MÓVEIS}}\\
+\end{center}
+
+\vspace*{0.2cm}
+%%%%%%%%%%% AUTORES - NO MÁXIMO 4 E 1 ORIENTADOR - %%%%%%%%%%%
+
+\begin{flushright}
+ {\bf Cleilson de Sousa Pereira} \footnote[1]{Graduando em Sistemas para Internet - FGF. e-mail: \it cleilsonpereira@aluno.fgf.edu.br}  \\
+ {\bf Eder Sousa} \footnote[2]{Graduando em Ciência da Computação - FGF. e-mail: \it aluno@aluno.fgf.edu.br}  \\
+  {\bf Claudia Adrielle Diogo} \footnote[3]{Graduando em Ciência da Computação - FGF. e-mail: \it aluno@aluno.fgf.edu.br}  \\
+   {\bf Hitalo} \footnote[4]{Mestre - Faculdade da Grande Fortaleza. e-mail: \it hitalo@fgf.edu.br}   \\
+\end{flushright}
+
+\vspace*{0.5cm}
+
+%%%%%%%%%%% CORPO DO TRABALHO - ENTRE 200 E 600 PALAVRAS %%%%%%%%%%%
+%%%% TODOS OS TRABALHOS DEVEM TRAZER AS SEÇÕES EXATAMENTE COMO DESTACADO ABAIXO %%%%%%
+
+
+\noindent{\textbf{INTRODUÇÃO:} O reconhecimento de padrões é uma ramificação do aprendizado de maquina com foco no reconhecimento dos padrões e regularidades em dados analisados. O reconhecimento de padrões é geralmente categorizado de acordo com o tipo de procedimento de aprendizagem usado para gerar o valor de saída, sendo utilizado a apredizagem supervisionada e a apredizagem não supervisonada. A aprendizagem supervisionada requer uma base da dados de treinamento e a aprendizagem não supervisonada irá averiguar similaridades nos dados sem uma base de treinamento, encontrando padrões e agrupando os dados por ordem de similaridade.\textbf{OBJETIVO:} Apontar as principais aplicações de algoritmos de reconhecimento de padrões, em implementações no desenvolvimento de dispositivos móveis. E analisar o seguimento de negócio no desenvolvimento, baseado na literatura acadêmica pequisada. \textbf{METODOLOGIA:} A metodologia aplicada ao seguinte estudo foi a pesquisa bibliografica. Feito análise de produção escrita em periodicos científicos, como CAPES, SciElo, Spell, Google Acadêmico e Microsoft Academic. Material complementar baseado em estudo bibliométrico, para apontamento de métricas, e tendências foi introduzido no presente estudo. \textbf{RESULTADOS E DISCUSSÃO:} XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXXXXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXXXXX XXX XXX XXX XXX XXX. \textbf{CONCLUSÃO:} XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXXXXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXXXXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX. \textbf{REFERÊNCIAS BIBLIOGRÁFICAS (MAX. TRÊS):} XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXXXXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXXXXXXXXXXXXXXX XXX .XXXXXXXXXXXXXXXXXXXXXX}
+
+%%%%%%%%%%% FIM DO RESUMO %%%%%%%%%%%
+%%%%%%%%%%% O RESUMO DEVE TER NO MÁXIMO DUAS PÁGINAS %%%%%%%%%%%
+
+
+\end{document}
+
+
