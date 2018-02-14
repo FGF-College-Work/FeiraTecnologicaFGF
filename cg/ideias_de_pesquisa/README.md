@@ -23,6 +23,8 @@ As coordenadas homogêneas (x1, x2, x3) de um ponto finito (x, y) no plano são 
 
 ![](http://mathworld.wolfram.com/images/equations/HomogeneousCoordinates/NumberedEquation1.gif)
 
+![](http://mathworld.wolfram.com/images/equations/HomogeneousCoordinates/NumberedEquation2.gif)
+
 Coordenadas (x1, x2,0) para as quais
 
 ![](http://mathworld.wolfram.com/images/equations/HomogeneousCoordinates/NumberedEquation3.gif)
@@ -45,9 +47,35 @@ Duas linhas expressas usando coordenadas homogêneas
 
 ![](http://mathworld.wolfram.com/images/equations/HomogeneousCoordinates/NumberedEquation7.gif)
 
+![](http://mathworld.wolfram.com/images/equations/HomogeneousCoordinates/NumberedEquation8.gif)
+
 são idênticos se
 
 ![](http://mathworld.wolfram.com/images/equations/HomogeneousCoordinates/NumberedEquation9.gif)
+
+A interseção das duas linhas acima é dada por
+
+x1= ![](http://mathworld.wolfram.com/images/equations/HomogeneousCoordinates/Inline9.gif)
+
+x2= ![](http://mathworld.wolfram.com/images/equations/HomogeneousCoordinates/Inline12.gif)
+
+x3= ![](http://mathworld.wolfram.com/images/equations/HomogeneousCoordinates/Inline15.gif)
+
+VEJA TAMBÉM:
+
+[Coordenadas Barycêntricas](http://mathworld.wolfram.com/BarycentricCoordinates.html), [Coordenadas Trilineares](http://mathworld.wolfram.com/TrilinearCoordinates.html)
+
+REFERÊNCIAS:
+
+Graustein, W. C. "Coordenadas Cartesianas Homogêneas. Dependência Linear de Pontos e Linhas". CH. 3 em [Introdução à Geometria Superior](http://www.amazon.com/exec/obidos/ASIN/B000AULM70/ref=nosim/ericstreasuretro). Nova York: Macmillan, pp. 29-49, 1930.
+
+---
+
+Referenciado em Wolfram | Alpha: [Coordenadas Homogêneas](http://www.wolframalpha.com/entities/mathworld/homogeneous_coordinates/i9/ck/1c/)
+
+CITE ESTE COMO:
+
+[Weisstein, Eric W](http://mathworld.wolfram.com/about/author.html). "Coordenadas Homogêneas". De [MathWorld](http://mathworld.wolfram.com/) - Um recurso da Web Wolfram. <http://mathworld.wolfram.com/HomogeneousCoordinates.html>
 
 
 
