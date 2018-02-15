@@ -15,4 +15,6 @@
 
 ### Guia para montar sua palestra [aqui](talk.md)
 
+### Lista de periodico para pesquisa acadêmica [aqui](periodico.md)
+
 
