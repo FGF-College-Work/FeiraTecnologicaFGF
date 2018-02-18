@@ -6,6 +6,10 @@
 
 - Links de pesquisa:
 
+https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/
+
+https://stackshare.io/haskell/in-stacks
+
 https://dev.yorhel.nl/doc/funcweb
 
 https://github.com/trending/haskell
