@@ -10,6 +10,8 @@ https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/
 
 https://stackshare.io/haskell/in-stacks
 
+https://www.infoworld.com/article/2840235/application-development/9-cutting-edge-programming-languages-worth-learning-next.html?page=2
+
 https://dev.yorhel.nl/doc/funcweb
 
 https://github.com/trending/haskell
