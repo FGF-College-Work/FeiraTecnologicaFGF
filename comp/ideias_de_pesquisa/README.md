@@ -12,6 +12,8 @@ https://stackshare.io/haskell/in-stacks
 
 https://www.infoworld.com/article/2840235/application-development/9-cutting-edge-programming-languages-worth-learning-next.html?page=2
 
+https://www.microsoft.com/en-us/research/publication/wearing-hair-shirt-retrospective-haskell-2003/
+
 https://dev.yorhel.nl/doc/funcweb
 
 https://github.com/trending/haskell
